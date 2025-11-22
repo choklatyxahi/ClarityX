@@ -1,7 +1,7 @@
 
-⭐ Clarity X — Modern Portfolio Website
+⭐ Clarity X —  Website
 
-Clarity X is a clean and modern portfolio website built using a customizable template and enhanced with personalized design adjustments. This project represents my approach to creating a minimal, responsive, and professional online presence.
+Clarity X is a clean website built using a customizable template and enhanced with personalized design adjustments. This project represents my approach to creating a minimal, responsive, and professional online presence.
 
 📝 Description
 
